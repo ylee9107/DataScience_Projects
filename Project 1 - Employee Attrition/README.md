@@ -18,8 +18,8 @@ As it can be seen from the lists above, it can be exceedingly difficult to pinpo
 2. What are the factors that leads to an employee leaving the company and how it can be predicted?
 
 ## Breakdown of the Showcase Files found in this Github Repository(seen above):
-1.	Employee Attrition.ipynb – Shows my complete step-by-step approach to reaching the final model. This will include all the theory behind each Classification models that I tried and implements, my preprocessing (data cleaning and feature engineering) pipeline testing and configurations, and GridSearch setup to fine-tune the models.  [Link](https://www.google.com)
-2.	Employee Attrition_Main.ipynb – Shows the “Streamlined” version where it removes all the experiments from the notebook mentioned above, and focuses loading in the dataset, precprocessing in and outputting the final results. This can be considered closer to the “Deployable” version of this project. [Link](https://www.google.com)
+1.	Employee Attrition.ipynb – Shows my complete step-by-step approach to reaching the final model. This will include all the theory behind each Classification models that I tried and implements, my preprocessing (data cleaning and feature engineering) pipeline testing and configurations, and GridSearch setup to fine-tune the models.  [Link](https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%201%20-%20Employee%20Attrition/Employee%20Attrition.ipynb)
+2.	Employee Attrition_Main.ipynb – Shows the “Streamlined” version where it removes all the experiments from the notebook mentioned above, and focuses loading in the dataset, precprocessing in and outputting the final results. This can be considered closer to the “Deployable” version of this project. [Link](https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%201%20-%20Employee%20Attrition/Employee%20Attrition_Main.ipynb)
 
 ## Breakdown of this Project:
 1. Loading in the Dataset.
