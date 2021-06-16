@@ -69,10 +69,10 @@ The following shows the attributes of the Credit Card dataset :
 
 ### Example Results from the Clustering model:
 The following shows the cluster separation based on customer’s purchasing behaviour.
-<img src="Description Images/ PCA_cluster_separation.PNG" width="650">
+<img src="Description Images/PCA_cluster_separation.PNG" width="650">
 
 The following shows a “cut-down” version of the Clustering output results that details of each customer group behaviour.
-<img src="Description Images/ Output_results_Clusters.PNG" width="650">
+<img src="Description Images/Output_results_Clusters.PNG" width="650">
 
 ## Summary:
 For this project, I was able to build a Clustering model that groups different types of customers together based on their spending (credit card) behaviour. I waws able to design a pipeline to pre-process the dataset such as removal of outliers, dealing with missing values and scaling them to be ready for modelling. I was also able to dimensionally reduce the size of the dataset to retain the important features with a deep learning AutoEncoder model. Further, to validate that the customer’s behaviour was unique to each group, I had visualised each cluster with PCA or t-SNE to visually validate that the groups were sufficiently separated. Overall, this allow me to aid the (fictitious) marketing team in building a targeted marketing scheme. All the details will be included in the notebook “Customer Behaviour.ipynb”. I also included a streamlined notebook along with .py utility files to process and model the dataset, where this will by-pass all the theory and demonstrate my scripting skills.
