@@ -12,10 +12,9 @@ Image Ref -> https://www.itnonline.com/content/ct-provides-best-diagnosis-novel-
 It would take experience Medical Professionals several minutes or more to confirm or at least partially confirm the results of such a scan. The limiting operational factor here is that this has to be done on a case-by-case basis, essentially forming a bottleneck in the overall diagnosis process. It is the hope of a Data Scientist to build a model that can speed this part of the process up so that the conclusion can be reach at a faster rate. 
 
 ### Breakdown of the Showcase Files found in this Github Repository (seen above):
-1. __Disease Detection_COVID19_Notebook1.ipynb__ - Shows my complete step-by-step approach to reaching the initial model. This will include all the theory behind ResNet-50 models. [Link]()
-2. __Disease Detection_COVID19_Notebook2.ipynb__ - Shows my complete approach to reaching the final model where it has been to tuned to reach a higher accuracy and therefore better predictive power. [Link]()
-
-3. __Disease Detection_COVID19_Main.ipynb__ - Shows the “Streamlined” version where it removes all the experiments from the notebook mentioned above, and focuses on loading in the dataset and trained ResNet-50 model to output the final results. This can be considered closer to the “Deployable” version of this project. [Link]()
+1. __Disease Detection_COVID19_Notebook1.ipynb__ - Shows my complete step-by-step approach to reaching the initial model. This will include all the theory behind ResNet-50 models. [Link](https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%203%20-%20Disease%20Detection_COVID19/Disease%20Detection_COVID19_Notebook1.ipynb)
+2. __Disease Detection_COVID19_Notebook2.ipynb__ - Shows my complete approach to reaching the final model where it has been to tuned to reach a higher accuracy and therefore better predictive power. [Link](https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%203%20-%20Disease%20Detection_COVID19/Disease%20Detection_COVID19_Notebook2.ipynb)
+3. __Disease Detection_COVID19_Main.ipynb__ - Shows the “Streamlined” version where it removes all the experiments from the notebook mentioned above, and focuses on loading in the dataset and trained ResNet-50 model to output the final results. This can be considered closer to the “Deployable” version of this project. [Link](https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%203%20-%20Disease%20Detection_COVID19/Disease%20Detection_COVID19_Main.ipynb)
 
 
 ## Breakdown of this Project:
