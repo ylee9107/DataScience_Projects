@@ -1,7 +1,5 @@
 # Project 4 – App to find Under-priced Apartments
 
-# App to find Under-priced Apartments:
-
 # Introduction:
 
 Searching for apartments that falls within your budget and location choice can be highly time consuming and frustrating. Even when a suitable apartment was found, knowing whether it is the right one is another challenge. During an apartment hunt, there are trade-off to consider such as having situated close to public transport in a city against having an elevator in the building, or time taken to walk to the nearest public transport. 
@@ -9,8 +7,8 @@ Searching for apartments that falls within your budget and location choice can b
 The __goal__ here is to make an application that will help the apartment hunting process that also explores these kinds of questions.
 
 ## Breakdown of the Showcase Files found in this Github Repository (seen above):
-1. __MLApp_underpricedApartments.ipynb__ -  Shows my complete step-by-step approach to reaching the final model. [Link]()
-2. __UnderpricedApartments_Main.ipynb__ - Shows the “Streamlined” version where it scrapes the website and accesses Google’s Geolocation and Codes API in the background and outputs the results. There is a handy function to input the search options (Zip code and number of beds) and it will generate the prices. This can be considered closer to the “Deployable” version of this project. [Link]()
+1. __MLApp_underpricedApartments.ipynb__ -  Shows my complete step-by-step approach to reaching the final model. [Link](https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%204%20-%20Underpriced%20Apartment%20Listings/MLApp_underpricedApartments.ipynb)
+2. __UnderpricedApartments_Main.ipynb__ - Shows the “Streamlined” version where it scrapes the website and accesses Google’s Geolocation and Codes API in the background and outputs the results. There is a handy function to input the search options (Zip code and number of beds) and it will generate the prices. This can be considered closer to the “Deployable” version of this project. [Link](https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%204%20-%20Underpriced%20Apartment%20Listings/UnderpricedApartments_Main.ipynb)
 
 ## Breakdown of this Project:
 1. Inspect through the Source Apartment Listing Website with Browser.
