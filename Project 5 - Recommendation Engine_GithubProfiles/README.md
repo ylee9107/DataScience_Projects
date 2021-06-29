@@ -14,7 +14,7 @@ Source: https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recomme
 
 ## Breakdown of the Showcase Files found in this GitHub Repository (seen above):
 
-1.	 __ GitHub Account Recommendation Engine.ipynb__ - Shows my complete step-by-step approach to reaching the final model. (https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%205%20-%20Recommendation%20Engine_GithubProfiles/GitHub%20Account%20Recommendation%20Engine.ipynb)[Link]
+1.	 __ GitHub Account Recommendation Engine.ipynb__ - Shows my complete step-by-step approach to reaching the final model. [Link](https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%205%20-%20Recommendation%20Engine_GithubProfiles/GitHub%20Account%20Recommendation%20Engine.ipynb)[Link]
 
 ## Dataset:
 
