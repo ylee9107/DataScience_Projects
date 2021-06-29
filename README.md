@@ -7,11 +7,11 @@ Below is a chart showing the projects available to view and its short descriptio
 <img src="Display Images/.PNG " width="1050">
 
 ### Links to the Showcase Projects:
-1. 	[Employee Attrition](DataScience_Projects/Project 1 - Employee Attrition at main · ylee9107/DataScience_Projects (github.com)) A fictional dataset created by IBM data scientists consisting of employee data for the development of a model that lowers the costs associated with hiring and training employees.
-2. 	[Customer Behaviour (Credit Card)](DataScience_Projects/Project 2 - Customer Behaviour_CreditCards at main · ylee9107/DataScience_Projects (github.com)) Analysing a dataset containing data on various customers' bi-annual spending behaviour that are reported in monetary units. A clustering model was built to simplify and discover the internal structure, distributions and patterns of the data to produce suggestions for a marketing campaign.
-3.  	[Disease Detection (Covid-19)](DataScience_Projects/Project 3 - Disease Detection_COVID19 at main · ylee9107/DataScience_Projects (github.com)) Designing and implementing a Convolutional Neural Network (ResNet-50) that learns to recognise a curated medical dataset consisting of Normal, Covid-19, Viral and Bacterial Pneumonia X-rays records.
-4. 	[Under-priced Apartment Listings](DataScience_Projects/Project 4 - Underpriced Apartment Listings at main · ylee9107/DataScience_Projects (github.com)) Designed a machine learning application that utilises a Regression model to predict prices of apartments in New York based on their location, where the data was scraped off an apartment listings website.
-5. 	[GitHub Account Recommender](DataScience_Projects/Project 5 - Recommendation Engine_GithubProfiles at main · ylee9107/DataScience_Projects) Designed a recommendation engine for GitHub Accounts based on a collaborative filtering model. The model utilises my previously starred GitHub repositories of interest and recommends new accounts that are similar. I was able to use this model to collect more relevant repositories for my learning journey.
+1. 	[Employee Attrition](https://github.com/ylee9107/DataScience_Projects/tree/main/Project%201%20-%20Employee%20Attrition) A fictional dataset created by IBM data scientists consisting of employee data for the development of a model that lowers the costs associated with hiring and training employees.
+2. 	[Customer Behaviour (Credit Card)](https://github.com/ylee9107/DataScience_Projects/tree/main/Project%202%20-%20Customer%20Behaviour_CreditCards) Analysing a dataset containing data on various customers' bi-annual spending behaviour that are reported in monetary units. A clustering model was built to simplify and discover the internal structure, distributions and patterns of the data to produce suggestions for a marketing campaign.
+3.  	[Disease Detection (Covid-19)](https://github.com/ylee9107/DataScience_Projects/tree/main/Project%203%20-%20Disease%20Detection_COVID19) Designing and implementing a Convolutional Neural Network (ResNet-50) that learns to recognise a curated medical dataset consisting of Normal, Covid-19, Viral and Bacterial Pneumonia X-rays records.
+4. 	[Under-priced Apartment Listings](https://github.com/ylee9107/DataScience_Projects/tree/main/Project%204%20-%20Underpriced%20Apartment%20Listings) Designed a machine learning application that utilises a Regression model to predict prices of apartments in New York based on their location, where the data was scraped off an apartment listings website.
+5. 	[GitHub Account Recommender](https://github.com/ylee9107/DataScience_Projects/tree/main/Project%205%20-%20Recommendation%20Engine_GithubProfiles) Designed a recommendation engine for GitHub Accounts based on a collaborative filtering model. The model utilises my previously starred GitHub repositories of interest and recommends new accounts that are similar. I was able to use this model to collect more relevant repositories for my learning journey.
 
 ### My Learning Projects for Skill Improvement:
 <img src="Display Images/.PNG " width="1050">
@@ -27,6 +27,6 @@ Aside from the 4 showcase projects presented above, I also have more projects to
 
 ## Future works:
 -	Interpretable Machine Learning, my current priority on self-learning. 
-- 	Advanced Natural Language Processing (NLP) with Machine Learning and Deep Learning.
+- Advanced Natural Language Processing (NLP) with Machine Learning and Deep Learning.
 -	Learn Deep Learning with Facebook’s Torch (PyTorch programming)
 -	Deep Learning for video processing.
