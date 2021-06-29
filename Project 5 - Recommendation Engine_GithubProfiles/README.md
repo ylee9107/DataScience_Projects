@@ -26,7 +26,7 @@ The data for this project was obtained through my own personal GitHub starred re
 
 The following diagram shows the GitHub accounts recommended to be starred based on what I have liked so far.
 
-<img src="Description Images/ RecommendedAccounts.PNG" width="550">
+<img src="Description Images/RecommendedAccounts.PNG" width="550">
 
 Image Ref -> Output from the recommendation engine.
 
