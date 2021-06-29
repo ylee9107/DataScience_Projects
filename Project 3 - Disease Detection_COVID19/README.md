@@ -55,8 +55,11 @@ contains:
 
 ## Model Output Predictions and Accuracy:
 The final model was able to achieve __~88% accuracy__ in detecting the diseases.
+
 <img src="Description Images/ResNet_FINAL_tune.PNG" width="450">
+
 The diagram below shows the output predictions made on the testing images and it outputs what the model believes to the correct diagnosis.
+
 <img src="Description Images/Model_Output_results.PNG" width="450">
  
 ## Summary:
